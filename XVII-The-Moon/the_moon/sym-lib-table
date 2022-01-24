@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "kbd")(type "Legacy")(uri "C:/Users/aborb/Documents/GitHub/Major-Arcana/KiCAD/kicad-symbols/kbd.lib")(options "")(descr ""))
-  (lib (name "xiaoble")(type "KiCad")(uri "C:/Users/aborb/Documents/GitHub/Major-Arcana/KiCAD/kicad-symbols/xiaoble.kicad_sym")(options "")(descr ""))
-)
