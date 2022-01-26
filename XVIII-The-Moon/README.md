@@ -1,6 +1,8 @@
 # XVIII The Moon
 
-![The Moon render](images/the_moon-render.png)
+| ![The Moon pcb render](images/the_moon-pcb.png) |
+|:--------------------------------------------------:|
+| PCB render                                         |
 
 ## Table of Contents
 - [XVIII The Moon](#xviii-the-moon)
@@ -80,5 +82,9 @@ build instructions can be found below (WIP).
 | Power Switch        | 1       | MSK-12C02         |
 
 ### Build guide
+
+| ![The Moon case render](images/the_moon-case.png) |
+|:-------------------------------------------------:|
+| Case render                                       |
 
 **WIP**
