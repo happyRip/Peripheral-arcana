@@ -1,1 +1,1 @@
-# Major-Arcana
+# arcana
