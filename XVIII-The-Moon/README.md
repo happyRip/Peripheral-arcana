@@ -70,14 +70,14 @@ build instructions can be found below (WIP).
 
 ### Bill of materials
 
-| Name              | Count | Remarks         |
-|:------------------+------:+:----------------|
-| Seeed Xiao BLE    |     1 |                 |
-| Keyswitch         |    30 | Choc PG1350     |
-| Diode             |    30 | 1n4148w SOD-123 |
-| Keycap            |    30 | Choc spacing    |
-| 3.7v Lipo Battery |     1 | 402530          |
-| Power Switch      |     1 | MSK-12C02       |
+| Name                | Count   | Remarks           |
+| :------------------ | ------: | :---------------- |
+| Seeed Xiao BLE      | 1       |                   |
+| Keyswitch           | 30      | Choc PG1350       |
+| Diode               | 30      | 1n4148w SOD-123   |
+| Keycap              | 30      | Choc spacing      |
+| 3.7v Lipo Battery   | 1       | 402530            |
+| Power Switch        | 1       | MSK-12C02         |
 
 ### Build guide
 
