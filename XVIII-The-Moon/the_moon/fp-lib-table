@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name "major_arcana")(type "KiCad")(uri "C:/Users/aborb/Documents/GitHub/Major-Arcana/KiCAD/major_arcana.pretty")(options "")(descr ""))
+  (lib (name "major_arcana")(type "KiCad")(uri "C:/Users/aborb/Documents/GitHub/Major-Arcana/lib/major_arcana.pretty")(options "")(descr ""))
+  (lib (name "the-moon")(type "KiCad")(uri "${KIPRJMOD}/the-moon.pretty")(options "")(descr ""))
 )
