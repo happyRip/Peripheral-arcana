@@ -1,8 +1,8 @@
 # XVIII The Moon
 
-| ![The Moon pcb render](images/the_moon-pcb.png) |
-|:--------------------------------------------------:|
-| PCB render                                         |
+| ![The Moon banner](images/the_moon-banner.png)                   |
+|:----------------------------------------------------------------:|
+| The Moon banner by [a mouse ‹3s](https://twitter.com/lt3s_mouse) |
 
 ## Table of Contents
 - [XVIII The Moon](#xviii-the-moon)
@@ -20,6 +20,10 @@
 
 
 ## Design principles
+
+| ![The Moon pcb render](images/the_moon-pcb.png) |
+|:-----------------------------------------------:|
+| PCB render                                      |
 
 `The Moon` or `xviii` is an ergonomic unibody keyboard, which/whose main
 principles are:
